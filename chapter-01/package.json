@@ -1,0 +1,29 @@
+{
+  "name": "chapter-01",
+  "description": "Build a Twitter Like app using the MVC design pattern",
+  "license": "MIT",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.15.1",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.4.1",
+    "express": "~4.16.3",
+    "express-session": "^1.15.6",
+    "gravatar": "^1.6.0",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.1.6",
+    "morgan": "~1.7.0",
+    "node-sass-middleware": "0.8.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
